@@ -22,6 +22,7 @@ The dataset used was taken from kaggle. This is the link:  [https://www.kaggle.c
 
 ## [](https://github.com/nymika/Signature-Forgery-Detection#results)Results
 The plotted accuracy and loss curves are in the [results folder.](https://github.com/nymika/Signature-Forgery-Detection/tree/main/results)
+
 | Model | Training Accuracy|Valiation Accuracy|
 |--|--|--|--|
 | CNN model  | 94.54% | 93.94% |
